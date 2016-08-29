@@ -1,6 +1,0 @@
-Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
-LandingPage,1033,630,221,2633,341.01,0.00%,6.8,70.15,10578.2
-ResultPage,983,1564,261,5512,1213.86,0.00%,6.6,125.54,19438.8
-ThreadGroup:ResultPage,115,2659,1971,3827,295.07,0.00%,7.5,135.85,18607.8
-ThreadGroup:LandingPage,118,1046,780,1716,128.13,0.00%,8.4,86.41,10577.4
-TOTAL,2249,1164,221,5512,1009.26,0.00%,14.8,214.57,14861.6
